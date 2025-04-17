@@ -10,3 +10,17 @@ h1{
 b{
     color: #471916;
 }
+
+.img{
+display: flex;
+justify-content: center;
+}
+
+.img img{
+    border: #9B111E solid 10px;
+}
+
+.rodape{
+    color: #9B111E;
+}
+
